@@ -8,7 +8,7 @@ That's enough about me. I'll keep updating it as and when I think I can add to i
 
 ### Books I've read
 
-I am a big sucker for self-help books. Let me tread very carefully here. I'm a big sucker for self-help books who have actually developed something, not people who just had success because of only their book or speaking or stupidly motivation stuff, or just by writing about how other people made money.
+I am a big sucker for self-help books. Let me tread very carefully here. I'm a big sucker for self-help books from authors who have actually developed something, not people who just had success because of only their book or speaking or stupidly motivation stuff, or just by writing about how other people made money.
 
 ```markdown
 1. Cashflow Quadrant (Robert Kiyosaki)
