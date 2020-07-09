@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Know ME!
 
-You can use the [editor on GitHub](https://github.com/frozenscrypt/frozenscrypt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Let me introduce myself
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Vivek Tiwari, a graduate in Computer Science specialized in Intelligent Robotics from University of Southern California in May 2020. I completed my Bachelors in Computer Science and Engineering back in India and since my final semester have been continuously involved in banging the doors of industry as an entrepreneur/explorer. I've been employed by Startups and research institutions in India and the USA. I've been part of some successful projects in designated markets covering domains like blockchains and artificial intelligence ( i.e. computer vision to be precise). I am great at working with people and I don't really have to say that; people in my professional circle can vouch for that. But owing to my versatility, I've been trusted with leading teams and client interactions for progress of projects and business development.
 
-### Markdown
+That's enough about me. I'll keep updating it as and when I think I can add to it to better introduce myself.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Books I've read
+
+I am a big sucker for self-help books. Let me tread very carefully here. I'm a big sucker for self-help books who have actually developed something, not people who just had success because of only their book or speaking or stupidly motivation stuff, or just by writing about how other people made money.
 
 ```markdown
-Syntax highlighted code block
+1. Cashflow Quadrant (Robert Kiyosaki)
+2. Business of the 21st Century (Robert Kiyosaki)
+3. Everyone Communicates Few Connect (John C. Maxwell)
+4. Iron Man Silken Heart (Story of Bill Britt by Shivram Kumar)
+5. Sell Naked On the Phone (Joe & Dawn Pici)
+6. The Monk Who Sold His Ferrari (Robin Sharma)
+7. The Success Intersection (Pat Williams)
+8. Character (Bill Hybels)
+9. Sponsor with Style (Robert A. Rohm)
+10. Jumpstart with Productivity (Shawn Doyle)
+11. How to Win Friends and Influence People (Dale Carnegie)
+12. The Compound Effect (Darren Hardy)
+13. The Parable of Homemade Millionaire (Bryan James)
+14. What to say when you talk to yourself (Shad Helmstetter)
+15. Simply Rich (Rich Devos)
+16. Dynamic People Skills (Dexter Yager)
+17. No Limits (John C. Maxwell)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frozenscrypt/frozenscrypt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
