@@ -1,123 +1,30 @@
----
-layout: default
----
+## Welcome to Know ME!
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Let me introduce myself
 
-[Link to another page](./another-page.html).
+My name is Vivek Tiwari, a graduate in Computer Science specialized in Intelligent Robotics from University of Southern California in May 2020. I completed my Bachelors in Computer Science and Engineering back in India and since my final semester have been continuously involved in banging the doors of industry as an entrepreneur/explorer. I've been employed by Startups and research institutions in India and the USA. I've been part of some successful projects in designated markets covering domains like blockchains and artificial intelligence ( i.e. computer vision to be precise). I am great at working with people and I don't really have to say that; people in my professional circle can vouch for that. But owing to my versatility, I've been trusted with leading teams and client interactions for progress of projects and business development.
 
-There should be whitespace between paragraphs.
+That's enough about me. I'll keep updating it as and when I think I can add to it to better introduce myself.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Books I've read
 
-# Header 1
+I am an avid reader of self-help books. Let me tread very carefully here. I'm an avid reader of self-help books from authors who have actually developed something, not people who just had success because of only their book or speaking or stupidly motivation stuff, or just by writing about how other people made money.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+```markdown
+1. Cashflow Quadrant (Robert Kiyosaki)
+2. Business of the 21st Century (Robert Kiyosaki)
+3. Everyone Communicates Few Connect (John C. Maxwell)
+4. Sell Naked On the Phone (Joe & Dawn Pici)
+5. The Monk Who Sold His Ferrari (Robin Sharma)
+6. The Success Intersection (Pat Williams)
+7. Character (Bill Hybels)
+8. Sponsor with Style (Robert A. Rohm)
+9. Jumpstart with Productivity (Shawn Doyle)
+10. How to Win Friends and Influence People (Dale Carnegie)
+11. The Compound Effect (Darren Hardy)
+12. The Parable of Homemade Millionaire (Bryan James)
+13. What to say when you talk to yourself (Shad Helmstetter)
+14. Simply Rich (Rich Devos)
+15. No Limits (John C. Maxwell)
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
 ```
