@@ -2,13 +2,19 @@
 
 ### Let me introduce myself
 
-My name is Vivek Tiwari, a graduate in Computer Science specialized in Intelligent Robotics from University of Southern California in May 2020. I completed my Bachelors in Computer Science and Engineering back in India and since my final semester have been continuously involved in banging the doors of industry as an entrepreneur/explorer. I've been employed by Startups and research institutions in India and the USA. I've been part of some successful projects in designated markets covering domains like blockchains and artificial intelligence ( i.e. computer vision to be precise). I am great at working with people and I don't really have to say that; people in my professional circle can vouch for that. But owing to my versatility, I've been trusted with leading teams and client interactions for progress of projects and business development.
+ I caught fire applying.
 
-That's enough about me. I'll keep updating it as and when I think I can add to it to better introduce myself.
+I am a graduate from University of Southern California with a Master in Computer Science specializing in Intelligent Robotics. I've been part of startups and research institutions in India, and the USA. Been involved in some challenging yet successful projects in the designated markets, covering domains like blockchains and artificial intelligence (particularly Computer Vision). I am good at working with people, thrive to develop technical and people skills through research papers and self-help books. Owing to my versatility, I’ve been trusted with leading teams and client interactions for progress of projects and business development. 
+
+I've come across this phrase so many times that says "Knowledge is power". Through my academic and professional journey, I come to realize that actually "Applied Knowledge is Power!". This ties in the feasibility aspect to solutions of any problem. With the thought of Artificial Intelligence pitching in to solve world problems, I come to realize that while the imagination to develop solutions could be endless, the important factor to consider is what can be applied to the problem as a solution right now. I involve myself with collaborating to solve problems in the present day and age, while keeping in touch with the possibility of how it could be in the future. 
+
+Keeping that phrase in mind, I did realize another fine problem I came across. This was the problem of restricted independence in terms of what problems I can work on or how can I work on something. It was easy to figure out the primary cause of it boils down to me being restricted in terms of finances and resources to dedicate to my own ideas. Seeking a solution for it, while at USC, I also started collaborating with few successful entrepreneurs and industry professionals that portrayed the results and the impact I wanted to create in life. I always kept carrying a growth mindset with myself, which really helped to focus on developing my entrepreneurship and leadership skills to develop something of my own alongside my professional career. I am currently on a path to not just contribute in my professional career through my constant growth and knowledge in technology but also contribute to people as a team player, builder and leader in aspects other than technology. 
+
+
 
 ### Books I've read
 
-I am an avid reader of self-help books. Let me tread very carefully here. I'm an avid reader of self-help books from authors who have actually developed something, not people who just had success because of only their book or speaking or stupidly motivation stuff, or just by writing about how other people made money.
+I am an avid reader of self-help books. Let me tread very carefully here. I'm an avid reader of self-help books from authors who have actually developed something in life, business or technology.
 
 ```markdown
 1. Cashflow Quadrant (Robert Kiyosaki)
